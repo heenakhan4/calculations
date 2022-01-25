@@ -1,0 +1,7 @@
+start 
+Fetch the variables
+Call the calculations function 
+Function(x,y,type='multi','div,'add','sub')
+ define variables x,y,z(store the output)
+ Calculate the values
+ store the output
